@@ -12,3 +12,14 @@ The data set includes the following variables:
 7.	class: bankruptcy, non-bankruptcy (target variable).
 
 
+Objective: To predict the likelihood of business bankruptcy using machine learning, helping businesses identify and mitigate financial risks.
+Tool Used: Python with libraries such as pandas, scikit-learn, and seaborn for data analysis, modeling, and visualization.
+Business Need: Businesses often face financial challenges that can lead to bankruptcy. By predicting bankruptcy risk, businesses can proactively manage their finances and make informed decisions to avoid financial distress.
+Techniques Used: Data Collection,Exploratory Data Analysis (EDA),Data Preprocessing,Model Selection and Training,Model Evaluation,Model Deployment.
+Conclusion: By accurately predicting bankruptcy risk, the business can proactively manage financial risks and make informed decisions to avoid bankruptcy.
+
+
+
+
+
+
